@@ -68,9 +68,10 @@
         "AAf": {
             "caption": "slider_value",
             "default_val": 0.5,
-            "editor": "StaticNumber",
+            "editor": "DynamicValue",
             "name": "slider_value",
-            "rank": 6
+            "rank": 6,
+            "value": "number"
         }
     },
     "icon": "ion-ios-musical-notes",

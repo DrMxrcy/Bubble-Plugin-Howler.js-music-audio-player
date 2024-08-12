@@ -8,7 +8,7 @@
     },
     "data_tracked": false,
     "demo_page": "https://plugindemos.bubbleapps.io/howlerjs",
-    "description": "Thank you to https://zeroqode.com/ for the Base",
+    "description": "Thank you to https://zeroqode.com/ for the Base\n\n",
     "image": "//meta-q.cdn.bubble.io/f1717101379124x617001128211525800/Audio%20_%20Sound%20Player%20Howler.js%20Lite.webp",
     "instructions": "Add the element to your page and set the audio file to play in the plugin properties. You can now play, pause, etc the audio from within your workflows.",
     "license": "open_source",
